@@ -1,5 +1,5 @@
 # automatic-doodle
-## Nupoor's first repo
+## Nupoor's first repo's first branch
 
 In this repo, I want to list out different items:
 - Thi sis my **first** item
